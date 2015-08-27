@@ -12,5 +12,8 @@ class PostsController extends AppController {
     public function view() {
         $this->set('');
     }
-
+    public function test1()
+    {
+        
+    }
 }
